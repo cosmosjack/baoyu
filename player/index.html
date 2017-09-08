@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="DPlayer.min.css">
+<div id="player1" class="dplayer"></div>
+<!-- ... -->
+<script src="hls.min.js"></script>
+<script src="DPlayer.min.js"></script>
+
+<script>
+    var dp = new DPlayer({
+        // ...
+        video: {
+            url: 'index.m3u8',
+            type: 'hls'
+            // ...
+        }
+    });
+</script>

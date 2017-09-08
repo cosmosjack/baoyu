@@ -158,6 +158,11 @@
     </div>
     <ol class="col-md-4 sea-slide-new visible-lg visible-md">
       
+	 <li>
+        <a href="/video/?1-0-0.html">罗马帝国艳情史</a>
+        <small class="pull-right">09-07</small>
+      </li>
+	   
     </ol>
     <div class="clearfix"></div>
     <ul class="row list-unstyled text-center index-nav visible-xs visible-sm">
@@ -326,6 +331,17 @@
     <!-- -->
     <ul class="list-unstyled">
    
+	  
+		  <li class="col-md-3 col-sm-2 col-xs-4 text-center sea-col sea-vod-img-hot ">
+	  
+      <a href="/detail/?1.html">
+        <img class="img-responsive sea-img" data-original="/uploads/allimg/201709/4227eeb937aad76f.jpg"  alt="罗马帝国艳情史" src="/uploads/allimg/201709/4227eeb937aad76f.jpg"  style="display: block;">
+      </a>
+      <h4 class="sea-text-hidden">
+        <a href="/detail/?1.html" title="罗马帝国艳情史">罗马帝国艳情史</a>
+      </h4>
+      </li>
+    
     </ul>
     </div><!--lg-8end -->
     <div class="col-md-4 sea-col index-right visible-lg visible-md">
@@ -333,7 +349,11 @@
         <h4><span class="glyphicon glyphicon-signal sea-text"></span> 热播榜</h4>
       </div>
       <ol class="sea-vod-hot">
-         
+         <li>
+          <a href="/detail/?1.html">罗马帝国艳情史</a>
+          <small class="pull-right">09-07</small>
+        </li>
+		 
       </ol>
       <ul class="list-unstyled sea-vod-type">
 <li class="col-md-3 sea-text-hidden sea-col"><a class="btn btn-sm btn-default" href="/search.php?searchtype=5&year=2015">2015</a></li>
@@ -418,6 +438,17 @@
     <!-- -->
     <ul class="list-unstyled">
    
+	  
+		  <li class="col-md-3 col-sm-2 col-xs-4 text-center sea-col sea-vod-img-hot ">
+	  
+      <a href="/detail/?1.html">
+        <img class="img-responsive sea-img" data-original="/uploads/allimg/201709/4227eeb937aad76f.jpg"  alt="罗马帝国艳情史" src="/uploads/allimg/201709/4227eeb937aad76f.jpg"  style="display: block;">
+      </a>
+      <h4 class="sea-text-hidden">
+        <a href="/detail/?1.html" title="罗马帝国艳情史">罗马帝国艳情史</a>
+      </h4>
+      </li>
+    
     </ul>
     </div><!--lg-8end -->
     <div class="col-md-4 sea-col index-right visible-lg visible-md">
@@ -425,7 +456,11 @@
         <h4><span class="glyphicon glyphicon-signal sea-text"></span> 热播榜</h4>
       </div>
       <ol class="sea-vod-hot">
-         
+         <li>
+          <a href="/detail/?1.html">罗马帝国艳情史</a>
+          <small class="pull-right">09-07</small>
+        </li>
+		 
       </ol>
       <ul class="list-unstyled sea-vod-type">
 <li class="col-md-3 sea-text-hidden sea-col"><a class="btn btn-sm btn-success" href="/search.php?searchtype=5&jq=农村">农村</a></li>
